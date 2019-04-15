@@ -7,7 +7,11 @@ def assign_variable(value)
 end
 
 def argue(phrase)
+<<<<<<< HEAD
   phrase = "I'm right and you are wrong!"
+=======
+  phrase = "you are correct"
+>>>>>>> 60f6dd96d49df18f535ac73bcb229e5ecfad3901
 end
 
 def greeting(greeting, name)
